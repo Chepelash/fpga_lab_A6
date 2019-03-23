@@ -1,6 +1,6 @@
 module bit_population_counter_tb;
 
-parameter int CLK_T = 10000;
+parameter int CLK_T = 100;
 parameter int WIDTH = 8;
 
 logic                     clk;
